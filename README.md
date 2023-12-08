@@ -2,7 +2,7 @@
 
 🚀 Greetings! I'm Ilyas, a passionate AI/ML developer with a knack for transforming data into meaningful insights. With a solid foundation in machine learning and artificial intelligence.
 
-## Expertise 👩‍💻:
+## Expertise :
 My journey in AI/ML has been marked by a diverse set of projects, where I've leveraged cutting-edge algorithms and frameworks to tackle complex problems. From predictive analytics and natural language processing to computer vision and deep learning, I've honed my skills in various facets of the field.
 
 ## Technical Proficiency 🛠️:
@@ -17,6 +17,4 @@ Beyond my professional endeavors, I'm passionate about sharing knowledge. You ca
 
 ## Future Aspirations 🚀:
 As I look ahead, I am excited about the evolving landscape of AI/ML. My goal is to continue pushing the boundaries of innovation, staying abreast of emerging technologies, and contributing to projects that have a positive impact on society.
-
-Let's embark on this journey of intelligence together! Feel free to reach out for collaboration, discussions, or just to share your favorite AI-related memes. 🤖✨
 
